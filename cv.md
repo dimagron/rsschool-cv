@@ -17,7 +17,23 @@ My name is Dima, I'm 18 years old, I'm from Belarus, but I've been studying in P
 * Ukrainian A2
 * Belarusian B2
 * Russian C2
-* English 
+* English A1
+
+## Code Examples
+'''
+<div class="languages">
+        <h2>Languages</h2>
+        <p>Polish B2</p>
+        <p>Ukrainian A2</p>
+        <p>Belarusian B2</p>
+        <p>Russian C2</p>
+        <p>English A1</p>
+    </div>
+    <div class="education">
+        <h2>Education</h2>
+        <p>Shchuchin Secondary School</p>
+        <p>Lyceum in Dombrowa Bialostocka</p>
+    </div>
 
 ## Education
 

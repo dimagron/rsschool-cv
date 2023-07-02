@@ -20,7 +20,7 @@ My name is Dima, I'm 18 years old, I'm from Belarus, but I've been studying in P
 * English A1
 
 ## Code Examples
-'''
+```
 <div class="languages">
         <h2>Languages</h2>
         <p>Polish B2</p>
@@ -34,7 +34,7 @@ My name is Dima, I'm 18 years old, I'm from Belarus, but I've been studying in P
         <p>Shchuchin Secondary School</p>
         <p>Lyceum in Dombrowa Bialostocka</p>
     </div>
-
+```
 ## Education
 
 * Shchuchin Secondary School 

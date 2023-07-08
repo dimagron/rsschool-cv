@@ -8,7 +8,7 @@
 
 .my_photo{
     border-radius: 50%;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 h1{
@@ -28,7 +28,7 @@ h1{
     font-family: Jura;
     font-weight: 500;
     margin: 0 0 0 0;
-    padding-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 .about_skills{
@@ -42,8 +42,7 @@ h2{
     font-family: Krona One;
     font-weight: 400;
     text-transform: uppercase;
-    margin: 0 0 0 0;
-    padding-bottom: 15px;
+    margin: 0 0 15px 0;
 }
 
 .about_me{
@@ -53,7 +52,7 @@ h2{
     color: #FDFFFC;
     font-size: 20px;
     font-family: Jura;
-    margin: 0 0 0 0;
+    margin: 0 0 50px 0;
 }
 
 .skills_image img{
@@ -71,12 +70,16 @@ h2{
     display: inline-block;
 }
 
+.code_exemples img{
+    margin-bottom: 50px;
+}
+
 .languages p{
     color: #FDFFFC;
     font-size: 20px;
     font-family: Jura;
     font-weight: 400;
-    margin: 5px;
+    margin: 0 0 5px 0;
     width: 140px;
 }
 

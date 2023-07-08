@@ -1,6 +1,6 @@
 .container{
     width: 830px;
-    height: 1400px;
+    height: 1800px;
     background-color:#19244B;
     padding: 50px;
     ;
@@ -89,13 +89,13 @@ h2{
     flex-shrink: 0;
     margin-bottom: 50px;
 }
-
+.education{
+    margin-bottom: 50px;
+}
 .education p{
-    width: 316px;
-    height: 53px;
-    flex-shrink: 0;
     color: #FDFFFC;
     font-size: 20px;
     font-family: Jura;
     font-weight: 400;
+    margin: 0 0 5px 0;
 }

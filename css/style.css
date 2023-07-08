@@ -34,6 +34,7 @@ h1{
 .about_skills{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 50px;
 }
 
 h2{
@@ -52,7 +53,7 @@ h2{
     color: #FDFFFC;
     font-size: 20px;
     font-family: Jura;
-    margin: 0 0 50px 0;
+    margin: 0 0 0 0;
 }
 
 .skills_image img{
@@ -70,8 +71,16 @@ h2{
     display: inline-block;
 }
 
+
+
+.code_exemples{
+    margin-left: 355px;
+}
+
 .code_exemples img{
     margin-bottom: 50px;
+    width: 250px;
+    height: 242px;
 }
 
 .languages p{
@@ -86,9 +95,8 @@ h2{
 .languages {
     width: 220px;
     height: 200px;
-    flex-shrink: 0;
-    margin-bottom: 50px;
 }
+
 .education{
     margin-bottom: 50px;
 }
@@ -110,4 +118,9 @@ h2{
     font-family: Jura;
     font-weight: 400;
     margin: 0 0 5px 0;
+}
+
+.code_languages{
+    display: flex;
+    margin-bottom: 50px;
 }

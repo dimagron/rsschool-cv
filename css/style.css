@@ -5,3 +5,94 @@
     padding: 50px;
     ;
 }
+
+.my_photo{
+    border-radius: 50%;
+    padding-bottom: 20px;
+}
+
+h1{
+    color: #F5F3F5;
+    font-size: 35px;
+    font-family: Krona One;
+    font-weight: 400;
+    margin: 0 0 5px 0;
+}
+
+.down_h1{
+    display: flex;
+    width: 403px;
+    flex-direction: column;
+    color: #FFF;
+    font-size: 20px;
+    font-family: Jura;
+    font-weight: 500;
+    margin: 0 0 0 0;
+    padding-bottom: 50px;
+}
+
+.about_skills{
+    display: flex;
+    justify-content: space-between;
+}
+
+h2{
+    color: #F5F3F5;
+    font-size: 25px;
+    font-family: Krona One;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin: 0 0 0 0;
+    padding-bottom: 15px;
+}
+
+.about_me{
+    display: flex;
+    width: 531px;
+    flex-direction: column;
+    color: #FDFFFC;
+    font-size: 20px;
+    font-family: Jura;
+    margin: 0 0 0 0;
+}
+
+.skills_image img{
+    width: 55px;
+    height: 55px;
+}
+
+.skills_image{
+    display: flex;
+    width: 117px;
+    height: 125px;
+}
+
+.up_image{
+    display: inline-block;
+}
+
+.languages p{
+    color: #FDFFFC;
+    font-size: 20px;
+    font-family: Jura;
+    font-weight: 400;
+    margin: 5px;
+    width: 140px;
+}
+
+.languages {
+    width: 220px;
+    height: 200px;
+    flex-shrink: 0;
+    margin-bottom: 50px;
+}
+
+.education p{
+    width: 316px;
+    height: 53px;
+    flex-shrink: 0;
+    color: #FDFFFC;
+    font-size: 20px;
+    font-family: Jura;
+    font-weight: 400;
+}

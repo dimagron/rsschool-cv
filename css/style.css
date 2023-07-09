@@ -1,0 +1,143 @@
+body{
+    color: 1E1E1E;
+}
+
+.container{
+    width: 730px;
+    height: 1400px;
+    background-color:#19244B;
+    padding: 50px;
+    ;
+}
+
+.my_photo{
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+h1{
+    color: #F5F3F5;
+    font-size: 35px;
+    font-family: Krona One;
+    font-weight: 400;
+    margin: 0 0 5px 0;
+}
+
+.down_h1{
+    display: flex;
+    width: 403px;
+    flex-direction: column;
+    color: #FFF;
+    font-size: 20px;
+    font-family: Jura;
+    font-weight: 500;
+    margin: 0 0 0 0;
+    margin-bottom: 50px;
+}
+
+.about_skills{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+h2{
+    color: #F5F3F5;
+    font-size: 25px;
+    font-family: Krona One;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin: 0 0 15px 0;
+}
+
+.about_me{
+    display: flex;
+    width: 431px;
+    flex-direction: column;
+    color: #FDFFFC;
+    font-size: 20px;
+    font-family: Jura;
+    margin: 0 0 0 0;
+}
+
+.skills_image img{
+    width: 55px;
+    height: 55px;
+}
+
+.skills_image{
+    display: flex;
+    width: 117px;
+    height: 125px;
+}
+
+.up_image{
+    display: inline-block;
+}
+
+
+
+.code_exemples{
+    margin-left: 250px;
+}
+
+.code_exemples img{
+    width: 250px;
+    height: 242px;
+}
+
+.languages p{
+    color: #FDFFFC;
+    font-size: 20px;
+    font-family: Jura;
+    font-weight: 400;
+    margin: 0 0 5px 0;
+    width: 140px;
+}
+
+.languages {
+    width: 220px;
+    height: 200px;
+}
+
+.education{
+    margin-bottom: 50px;
+}
+.education p{
+    color: #FDFFFC;
+    font-size: 20px;
+    font-family: Jura;
+    font-weight: 400;
+    margin: 0 0 5px 0;
+}
+
+.contact_me{
+    margin-bottom: 95px;
+    margin-left: 100px;
+}
+
+.contact_me p{
+    color: #FDFFFC;
+    font-size: 20px;
+    font-family: Jura;
+    font-weight: 400;
+    margin: 0 0 5px 0;
+}
+
+.code_languages{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.edu_contact{
+    display: flex;
+}
+
+.footer{
+    margin-left: 170px;
+    margin-top: 100px;
+}
+
+.footer a{
+    margin-left: 30px;
+}
